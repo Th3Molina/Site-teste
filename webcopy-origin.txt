@@ -1,0 +1,236 @@
+Uri: http://ofertasreligiosa.com/
+File Name: B:\site base\ofertasreligiosa.com\index.htm
+Content Type: text/html
+
+Uri: http://ofertasreligiosa.com/script.js
+File Name: B:\site base\ofertasreligiosa.com\script.js
+Content Type: application/javascript
+
+Uri: http://ofertasreligiosa.com/styles.css
+File Name: B:\site base\ofertasreligiosa.com\styles.css
+Content Type: text/css
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: B:\site base\ofertasreligiosa.com\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: B:\site base\ofertasreligiosa.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap
+File Name: B:\site base\ofertasreligiosa.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: B:\site base\ofertasreligiosa.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://i.ibb.co/0ppB27W1/2.png
+File Name: B:\site base\ofertasreligiosa.com\0ppB27W1\2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/8LyDTgw7/CAPA-2.png
+File Name: B:\site base\ofertasreligiosa.com\8LyDTgw7\CAPA-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/9mVV2GbZ/4.webp
+File Name: B:\site base\ofertasreligiosa.com\9mVV2GbZ\4.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/bj2gfd1M/2.webp
+File Name: B:\site base\ofertasreligiosa.com\bj2gfd1M\2.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/d4kN2D3G/CAPA.png
+File Name: B:\site base\ofertasreligiosa.com\d4kN2D3G\CAPA.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/FbvzCFn4/Captura-de-Tela-2025-06-26-a-s-09-46-01.png
+File Name: B:\site base\ofertasreligiosa.com\FbvzCFn4\Captura-de-Tela-2025-06-26-a-s-09-46-01.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/G1XJd9G/CAPA-1.png
+File Name: B:\site base\ofertasreligiosa.com\G1XJd9G\CAPA-1.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/G4jNRSF9/1.webp
+File Name: B:\site base\ofertasreligiosa.com\G4jNRSF9\1.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/gMbmYVN3/Captura-de-Tela-2025-06-26-a-s-09-49-07.png
+File Name: B:\site base\ofertasreligiosa.com\gMbmYVN3\Captura-de-Tela-2025-06-26-a-s-09-49-07.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/j9cnTYGW/2.png
+File Name: B:\site base\ofertasreligiosa.com\j9cnTYGW\2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Jw2RZTm3/3.webp
+File Name: B:\site base\ofertasreligiosa.com\Jw2RZTm3\3.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/ks53L6Cv/6.webp
+File Name: B:\site base\ofertasreligiosa.com\ks53L6Cv\6.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/kV0Kw5MY/7.webp
+File Name: B:\site base\ofertasreligiosa.com\kV0Kw5MY\7.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/PZT9fgdb/Captura-de-Tela-2025-06-26-a-s-09-47-56.png
+File Name: B:\site base\ofertasreligiosa.com\PZT9fgdb\Captura-de-Tela-2025-06-26-a-s-09-47-56.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Q7kYm6bT/1-1.webp
+File Name: B:\site base\ofertasreligiosa.com\Q7kYm6bT\1-1.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/rGncvKH4/Captura-de-Tela-2025-06-26-a-s-09-43-48.png
+File Name: B:\site base\ofertasreligiosa.com\rGncvKH4\Captura-de-Tela-2025-06-26-a-s-09-43-48.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Rk9NJPbb/CAPA.png
+File Name: B:\site base\ofertasreligiosa.com\Rk9NJPbb\CAPA.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/tMPkF74h/tita-HC-capajesusquad21x21-01b.jpg
+File Name: B:\site base\ofertasreligiosa.com\tMPkF74h\tita-HC-capajesusquad21x21-01b.jpg
+Content Type: image/jpeg
+
+Uri: https://i.ibb.co/TMq5zQJd/CAPA.png
+File Name: B:\site base\ofertasreligiosa.com\TMq5zQJd\CAPA.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/TxDD57PJ/8.webp
+File Name: B:\site base\ofertasreligiosa.com\TxDD57PJ\8.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/vx1ZwF1P/1-CAPA.png
+File Name: B:\site base\ofertasreligiosa.com\vx1ZwF1P\1-CAPA.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/wFQmCM9d/9.webp
+File Name: B:\site base\ofertasreligiosa.com\wFQmCM9d\9.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/wFTyMmRC/5.webp
+File Name: B:\site base\ofertasreligiosa.com\wFTyMmRC\5.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/WW3qKWjb/5-20250305_151831-0004.png
+File Name: B:\site base\ofertasreligiosa.com\WW3qKWjb\5-20250305_151831-0004.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/yBy9qVP5/01-CAPA-COM-BORDA.png
+File Name: B:\site base\ofertasreligiosa.com\yBy9qVP5\01-CAPA-COM-BORDA.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/ymFZXvvZ/1-Capa.png
+File Name: B:\site base\ofertasreligiosa.com\ymFZXvvZ\1-Capa.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/zV9P94DN/1.jpg
+File Name: B:\site base\ofertasreligiosa.com\zV9P94DN\1.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/3Ns211dg/IMG-5369.jpg
+File Name: B:\site base\ofertasreligiosa.com\3Ns211dg\IMG-5369.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/655Z9VcY/CAPA.png
+File Name: B:\site base\ofertasreligiosa.com\655Z9VcY\CAPA.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/8k9dTptj/IMG-5365.jpg
+File Name: B:\site base\ofertasreligiosa.com\8k9dTptj\IMG-5365.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/gjB2chcT/LIVRO-VIRTUDES.png
+File Name: B:\site base\ofertasreligiosa.com\gjB2chcT\LIVRO-VIRTUDES.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/HLGj7b0G/LIVRO-MULHERES-DA-BIBLIA.png
+File Name: B:\site base\ofertasreligiosa.com\HLGj7b0G\LIVRO-MULHERES-DA-BIBLIA.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/hPMg8T9z/IMG-5298-2.jpg
+File Name: B:\site base\ofertasreligiosa.com\hPMg8T9z\IMG-5298-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/Hx9Jmj7q/LIVRO-HEROIS-DA-FE.png
+File Name: B:\site base\ofertasreligiosa.com\Hx9Jmj7q\LIVRO-HEROIS-DA-FE.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/KvmxgJgh/IMG-5297-2.jpg
+File Name: B:\site base\ofertasreligiosa.com\KvmxgJgh\IMG-5297-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/NF91RSfs/IMG-5390.jpg
+File Name: B:\site base\ofertasreligiosa.com\NF91RSfs\IMG-5390.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/rF3wv5Pd/LIVRO-VERSI-CULOS-E-PROMESSAS.png
+File Name: B:\site base\ofertasreligiosa.com\rF3wv5Pd\LIVRO-VERSI-CULOS-E-PROMESSAS.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/xjv9CW8P/IMG-5295-2.jpg
+File Name: B:\site base\ofertasreligiosa.com\xjv9CW8P\IMG-5295-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/zGBNxvjd/IMG-5318-2.jpg
+File Name: B:\site base\ofertasreligiosa.com\zGBNxvjd\IMG-5318-2.jpg
+Content Type: image/jpeg
+
