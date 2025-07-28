@@ -71,7 +71,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%);
+    background: linear-gradient(135deg, #05eac4 0%, #05676b 100%);
     color: white;
     padding: 1.5rem 0 3rem;
     min-height: 85vh;
@@ -262,6 +262,7 @@ body {
 .benefit-icon.purple { background: linear-gradient(135deg, #8b5cf6, #6d28d9); }
 .benefit-icon.green { background: linear-gradient(135deg, #10b981, #047857); }
 .benefit-icon.orange { background: linear-gradient(135deg, #f97316, #ea580c); }
+.benefit-icon.red { background: linear-gradient(135deg, #03ff07, #0b4f0f); }
 
 .benefit h3 {
     font-size: 1.25rem;
@@ -529,7 +530,7 @@ body {
 }
 
 .pricing-card.premium {
-    border: 3px solid #fbbf24;
+    border: 3px solid #ecba3a;
     transform: scale(1.05);
 }
 
